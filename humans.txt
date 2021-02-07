@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Michael Reynoso    michael_r@optimove.com     x___mr__ 
 
 # THANKS
 
